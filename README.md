@@ -17,7 +17,7 @@ InteractiveModule  <br />
 !help - No description <br />
 **ModerationModule** <br />
 !purge - Pudge will purge specified number of messages <br />
-OpenDotaStatsModule <br />
+**OpenDotaStatsModule** <br />
 !GetNotifications - Get notifications when match is over <br />
 !RemoveNotifications  <br />
 !Register - Registration in system PUDGE. <br />
