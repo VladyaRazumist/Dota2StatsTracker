@@ -1,5 +1,31 @@
 # Dota2StatsTracker
 Discord bot for getting DOTA2 stats, receiving notifications about latest match, some voice activities and other.
+Supported commands:
+**AudioModule** 
+!Join - Падж зайдет в войс канал 
+!Leave - Падж покинет войс канал 
+!PlayYT - Играть видео с YouTube в войс 
+!Die - Падж не боится смерти. 
+!RandomVoice - Случайная фраза в войс 
+**GeneralModule**
+!ping - No description 
+!info - Информация о юзере 
+!server - Информация о сервере 
+!phrase - Рандомная текстовая фраза 
+InteractiveModule 
+!help - No description 
+**ModerationModule** 
+!purge - Падж поглотит указанное количество сообщений 
+OpenDotaStatsModule 
+!GetNotifications - Получать уведомления о новых матчах 
+!RemoveNotifications - Перестать получать уведомления о новых матчах 
+!Register - Регистрация в системе Падж. 
+!AddSteam - Привязать стим аккаунт 
+!hero - Информация о герое 
+!stats - Стата героя 
+!lastMatch - Последний сыгранный матч 
+**VkModule** 
+!freshMeat - Рандомный мем с паджом
 
 !profile
 
