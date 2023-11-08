@@ -3,30 +3,30 @@ Discord bot for getting DOTA2 stats, receiving notifications about latest match,
 
 Supported commands: <br />
 **AudioModule** <br />
-!Join - Падж зайдет в войс канал <br />
-!Leave - Падж покинет войс канал <br />
-!PlayYT - Играть видео с YouTube в войс <br />
-!Die - Падж не боится смерти. <br />
-!RandomVoice - Случайная фраза в войс <br />
+!Join - Pudge will join voice channel <br />
+!Leave - Pudge will leave voice channel <br />
+!PlayYT - Play video from youtube into voice channel <br />
+!Die - Pudge is not afraid to die. <br />
+!RandomVoice - Random Pudge phrase is played in voice channel <br />
 **GeneralModule** <br />
 !ping - No description  <br />
-!info - Информация о юзере <br />
-!server - Информация о сервере <br />
-!phrase - Рандомная текстовая фраза <br />
+!info - User info <br />
+!server - Server info <br />
+!phrase - Random Pudge`s phrase <br />
 InteractiveModule  <br />
 !help - No description <br />
 **ModerationModule** <br />
-!purge - Падж поглотит указанное количество сообщений <br />
+!purge - Pudge will purge specified number of messages <br />
 OpenDotaStatsModule <br />
-!GetNotifications - Получать уведомления о новых матчах <br />
-!RemoveNotifications - Перестать получать уведомления о новых матчах <br />
-!Register - Регистрация в системе Падж. <br />
-!AddSteam - Привязать стим аккаунт <br />
-!hero - Информация о герое <br />
-!stats - Стата героя <br />
-!lastMatch - Последний сыгранный матч <br />
+!GetNotifications - Get notifications when match is over <br />
+!RemoveNotifications  <br />
+!Register - Registration in system PUDGE. <br />
+!AddSteam - Link stream acc <br />
+!hero - Hero information <br />
+!stats - Hero stats <br />
+!lastMatch - Last match info <br />
 **VkModule** <br />
-!freshMeat - Рандомный мем с паджом <br />
+!freshMeat - Random pudge meme <br />
 
 !profile 
 
