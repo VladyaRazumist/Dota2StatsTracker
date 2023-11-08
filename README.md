@@ -28,6 +28,7 @@ InteractiveModule  <br />
 **VkModule** <br />
 !freshMeat - Random pudge meme <br />
 
+**Some examples** <br />
 !profile 
 
 ![image](https://github.com/VladyaRazumist/Dota2StatsTracker/assets/45969614/d9528803-3fe3-4a6b-ba7e-31423d5ecace)
